@@ -1,4 +1,4 @@
-=== CPCAST O PODCAST DO CANAL PILOTO ===
+=== CP Cast o Podcast do Canal Piloto ===
 Contributors: joelgarciajr84
 Tags: podcasts, cpcast, episodios, canalpiloto
 Requires at least: 3.3
